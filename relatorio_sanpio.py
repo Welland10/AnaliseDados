@@ -1,3 +1,5 @@
+#Código Final que lê a tabela no banco, filtra as informações, gera o dataframe e os graficos e salva em PDF
+
 import pyodbc
 import pandas as pd
 import matplotlib.pyplot as plt
